@@ -5,5 +5,5 @@
 - 📫 How to reach me ...getharisree@outlook.com
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HARI-SREE-S-A &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HARI-SREE-S-A&theme=radical)
         
