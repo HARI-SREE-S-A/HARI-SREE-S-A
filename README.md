@@ -6,5 +6,5 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HARI-SREE-S-A&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HARI-SREE-S-A)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HARI-SREE-S-A)]
         
