@@ -7,5 +7,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HARI-SREE-S-A&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HARI-SREE-S-A&theme=merko)
-![ github activity graph](https://activity-graph.herokuapp.com/graph?username=HARI-SREE-S-A&theme=redical)
+![HARISREE'S github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HARI-SREE-S-A)]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HARI-SREE-S-A&langs_count=8&layout=compact)
