@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HARI-SREE-S-A
+- 👋 Hi, I’m @HARI-SREE-S-A # Mechanical Engineer
 - 👀 I’m interested in ...giving intelligence to machines
 - 🌱 I’m currently learning ...Machine Learning - Vision
 - 💞️ I’m looking to collaborate on ....A self sustaining AI 
